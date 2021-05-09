@@ -1,0 +1,9 @@
+1. comandos :
+   1. para subir el servidor.
+       ng serve -o
+
+  2.para generar un component.
+      ng g c  heroes/listado
+
+      me quede en la directiva:
+      16. Directiva ngFor
